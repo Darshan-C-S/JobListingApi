@@ -4,5 +4,5 @@
 1. Java 17
 2. Spring Boot 
 3. Open Api for API documentation 
-4. MongoDB Atlas server for Database
-5. 
+4. MongoDB Atlas server as Database server
+5. Log4J for logging 
